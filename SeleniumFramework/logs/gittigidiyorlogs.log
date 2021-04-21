@@ -1,0 +1,12 @@
+[INFO ] 2021-04-21 18:08:52.819 [main] gittigidiyorLogger - Initialize the test case.
+[TRACE] 2021-04-21 18:08:54.529 [main] gittigidiyorLogger - Defining main page class and login page class is successful.
+[TRACE] 2021-04-21 18:08:56.657 [main] gittigidiyorLogger - Open page https://www.gittigidiyor.com/ is successful.
+[TRACE] 2021-04-21 18:08:56.687 [main] gittigidiyorLogger - Check main page is successful.
+[TRACE] 2021-04-21 18:09:00.687 [main] gittigidiyorLogger - Login is successful.
+[TRACE] 2021-04-21 18:09:03.649 [main] gittigidiyorLogger - Search 'bilgisayar' is successful.
+[TRACE] 2021-04-21 18:09:05.641 [main] gittigidiyorLogger - Check page 2 is successful.
+[TRACE] 2021-04-21 18:09:11.173 [main] gittigidiyorLogger - Product price and basket price are equal.
+[TRACE] 2021-04-21 18:09:11.173 [main] gittigidiyorLogger - Price comparison is successful.
+[TRACE] 2021-04-21 18:09:11.359 [main] gittigidiyorLogger - Number of products is 2.
+[TRACE] 2021-04-21 18:09:13.434 [main] gittigidiyorLogger - Basket is empty.
+[INFO ] 2021-04-21 18:09:18.181 [main] gittigidiyorLogger - Test Completed Successfully.
