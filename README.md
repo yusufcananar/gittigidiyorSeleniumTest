@@ -2,9 +2,9 @@
 
 Bu projede Selenium, JUnit ve Log4J kütüphaneleri kullanılmaktadır.
 
-##Web Otomasyon Görevleri
+# Web Otomasyon Görevleri
 
--www.gittigidiyor.com sitesi açılır.
+- www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
 - Login işlemi kontrol edilir.
 - Arama kutucuğuna bilgisayar kelimesi girilir.
